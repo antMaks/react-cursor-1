@@ -5,7 +5,6 @@ import  AVA_IMAGE from "/Users/mac/Desktop/react-cursor-1/app-homework1/src/img/
 function App() {
   return (
     <div className="App">
-
     <Post author= {{
       name: "Ant Maks",
       photo: AVA_IMAGE,
